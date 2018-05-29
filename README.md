@@ -1,2 +1,1 @@
-# multirelease
-Java 8 library with module descriptor
+Run `mvn install` to build
